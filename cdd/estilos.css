@@ -10,7 +10,11 @@ body{
     text-align: center;
     border: solid 1px blueviolet;
     margin: 0 auto;
+<<<<<<< HEAD
     color:green;
+=======
+    color:red;
+>>>>>>> cabecera
 }
 .cabecera{
     background:red;
