@@ -1,6 +1,13 @@
 body{
-    text-align: center;
+    text-align: right;
     margin: 0;
-    color: blueviolet;
+    color: chartreuse;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: solid 1px blueviolet;
+    margin: 0 auto;
 }
