@@ -10,4 +10,11 @@ body{
     text-align: center;
     border: solid 1px blueviolet;
     margin: 0 auto;
+    color:grey;
+}
+.cabecera{
+    background:blue;
+    color: white;
+    text-align: left;
+    font-size: 40px;
 }
