@@ -1,0 +1,20 @@
+body{
+    text-align: right;
+    margin: 0;
+    color: chartreuse;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: solid 1px blueviolet;
+    margin: 0 auto;
+    color:red;
+}
+.cabecera{
+    background:red;
+    color: white;
+    text-align: left;
+    font-size: 40px;
+}
